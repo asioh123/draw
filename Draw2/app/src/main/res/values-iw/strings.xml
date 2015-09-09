@@ -4,8 +4,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
-    <string name="btnCircle">Circle</string>
-    <string name="btnRec">Rectangle</string>
+    <string name="btnCircle">עיגול</string>
+    <string name="btnRec">מלבן</string>
 
     <string-array name="colors">
         <item>BLUE</item>

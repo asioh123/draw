@@ -141,9 +141,9 @@
         android:id="@+id/relativeLayout2">
 
         <Button
-            android:layout_width="175dp"
+            android:layout_width="165dp"
             android:layout_height="wrap_content"
-            android:text="Circle"
+            android:text="@string/btnCircle"
             android:id="@+id/buttonCircle"
             android:layout_centerVertical="true"
             android:layout_alignParentLeft="true"
@@ -151,9 +151,9 @@
             android:onClick="PaintCircle" />
 
         <Button
-            android:layout_width="175dp"
+            android:layout_width="165dp"
             android:layout_height="wrap_content"
-            android:text="Rectangle"
+            android:text="@string/btnRec"
             android:id="@+id/buttonRectangle"
             android:layout_alignTop="@+id/buttonCircle"
             android:layout_alignParentRight="true"
